@@ -1,5 +1,5 @@
 # hello-world
-My first repository.
+My first repository. Just for tests.
 
 I'm new to this. Please be nice.
-# never mind this comment
+
